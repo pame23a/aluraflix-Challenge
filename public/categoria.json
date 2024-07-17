@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Front-end",
+    "descricao": "Videos que me ajudaram a desenvolver este projeto",
+    "cor": "#6BD1FF",
+    "codigo": 123,
+    "id": 1
+  },
+  {
+    "nome": "Back-end",
+    "descricao": "Videos que me ajudaram a desenvolver a api do projeto",
+    "cor": "#6B5BE2",
+    "codigo": 123,
+    "id": 2
+  },
+  {
+    "nome": "DevOps",
+    "descricao": "descricao",
+    "cor": "#FF8C2A",
+    "codigo": 123,
+    "id": 3
+  },
+  {
+    "nome": "VieosTeste",
+    "descricao": "Videos de teste",
+    "cor": "#cf6fdc",
+    "codigo": "222",
+    "id": 4
+  },
+  {
+    "nome": "Data Science",
+    "descricao": "A ciência de dados é o estudo dos dados para extrair insights significativos para os negócios.",
+    "cor": "#6500a8",
+    "codigo": "222",
+    "id": 5
+  }
+]
